@@ -6,6 +6,14 @@ Ini adalah aplikasi desktop yang merupakan salah satu implementasi dari **Kecerd
 
 Aplikasi ini memiliki antarmuka pengguna grafis (GUI) yang sederhana. Pengguna akan dihadapkan pada serangkaian pertanyaan mengenai gejala yang dialami oleh ayam. Berdasarkan jawaban yang diberikan, sistem akan menggunakan basis pengetahuan dan mesin inferensi (dengan metode **Certainty Factor**) untuk menghitung kemungkinan setiap penyakit. Hasil akhir yang ditampilkan adalah penyakit dengan persentase keyakinan tertinggi, beserta saran penanganan dan pengobatan yang relevan.
 
+## Tampilan
+Berikut adalah tampilan dari file `SistemPakarPenyakitAyam.py`.
+
+![Tampilan Awal](Main.png)
+![Menu Pilihan Sistem Pakar](ExpertSystemStart.png)
+![Tampilan Output](Output.png)
+
+
 ## Fitur Utama
 
 - **Aplikasi Kecerdasan Buatan:** Mengimplementasikan konsep AI dalam bentuk sistem pakar untuk meniru kemampuan seorang ahli dalam mendiagnosa penyakit.
